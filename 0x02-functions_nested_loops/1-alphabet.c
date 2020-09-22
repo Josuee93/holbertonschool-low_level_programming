@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
  *Function that prints the alphabet
  *in lower case
@@ -14,4 +13,3 @@ _putchar(i);
 }
 _putchar('\n');
 }
-
