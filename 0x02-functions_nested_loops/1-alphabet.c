@@ -1,9 +1,14 @@
 #include "holberton.h"
 /**
- *Function that prints the alphabet
- *in lower case
- *no return needed.
-*/
+ *print_alphabet - print alphabet
+ *is not necessary the
+ *return because only
+ *prints in
+ *terminal a
+ *result in
+ *this case
+ *
+ */
 void print_alphabet(void)
 {
 char i;
