@@ -1,5 +1,6 @@
 #include "holberton.h"
-/*
+
+/**
  *Function that prints the alphabet
  *in lower case
  *no return needed.
