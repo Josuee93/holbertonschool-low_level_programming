@@ -1,5 +1,13 @@
 #include "holberton.h"
 
+/**
+ * print_square - function that prints a square
+ * @size: is the size of the square
+ *
+ * Return: no return.
+ */
+
+
 void print_square(int size)
 {
 	int i, j;
