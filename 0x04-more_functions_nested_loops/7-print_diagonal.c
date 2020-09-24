@@ -1,5 +1,12 @@
 #include "holberton.h"
 
+/**
+ * print_diagonal - function that draws a diagonal line
+ * @n: is the number of times the character \ should be printed
+ *
+ * Return: no return.
+ */
+
 void print_diagonal(int n)
 {
 	int i, j;
