@@ -20,12 +20,12 @@ int main(void)
 		else if ((i % 5) == 0)
 			printf("Buzz");
 		else
-			printf ("%d", i);
-		if( i != 100)
+			printf("%d", i);
+		if (i != 100)
 		{
-			printf (" ");
+			printf(" ");
 		}
 	}
-	printf ("\n");
+	printf("\n");
 	return (0);
 }
