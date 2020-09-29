@@ -1,5 +1,4 @@
 #include "holberton.h"
-#include <stdio.h>
 
 void print_rev(char *s)
 {
